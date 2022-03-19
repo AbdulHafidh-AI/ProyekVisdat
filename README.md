@@ -8,7 +8,7 @@
 <ul>
   <li>Life Expentancy At Birth</li>
   <li>Average Education</li>
-  <li>Standart of Living</li>
+  <li>Standard of Living</li>
   </ul>
 
 <img src="https://www.boomlive.in/h-upload/2019/12/10/821502-hdi01.webp" width=1500px >
